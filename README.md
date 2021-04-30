@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k0besity
+- 👋 Hi, I’m @kobedouglas
 - 👀 I’m interested in ... game development, useful algorithms, and learning about ways to utilize the power of a computer better!
 - 🌱 I’m currently learning ... the basics of Github.
 - 💞️ I’m looking to collaborate on ... nothing at the moment, I'm just getting settled in.
